@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubassamali&label=Profile%20views&color=0e75b6&style=flat" alt="mubassamali" /> </p>
 
-- 💬 Ask me about **html,css,tailwindcss ,vanilla JS**
+- 💬 Ask me about **React, vanilla JS, html, css, tailwindcss**
 
 - 📫 How to reach me **mubassamali128@gmail.com**
 
