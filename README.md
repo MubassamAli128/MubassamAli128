@@ -1,13 +1,13 @@
 ![logo](https://github.com/MubassamAli/MubassamAli/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mubassam Ali</h1>
 
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubassamali&label=Profile%20views&color=0e75b6&style=flat" alt="mubassamali" /> </p>
 
-- 💬 Ask me about **React, vanilla JS, html, css, tailwindcss**
+- 💬 Ask me about **React, vanilla JS, html, css, tailwindcss, MongoDB, express js, React js, node js**
 
 - 📫 How to reach me **mubassamali128@gmail.com**
 
@@ -32,6 +32,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://vite.dev/guide/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express js" width="40" height="40"/></a>
+  <a href="https://redux.js.org/introduction/installation" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="React" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubassamali128&show_icons=true&locale=en&layout=compact&theme=dark" alt="mubassamali" /></p>
